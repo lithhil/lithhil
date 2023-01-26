@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Wiktoria based in Warsaw, Poland
-- 👀 I’m interested in WEB3
-- 🌱 I’m currently learning Solidity
+- 👋 Hi, I’m Wiktoria, based in CET time zone
+- 👀 WEB3 enthusiast
+- 🌱 I build websites
 - 💞️ I’m seeking internship/job opportunities that will allow me to gain experience
 - 📫 You can reach me on Telegram @lithil or Twitter @0xWiktoria
 
