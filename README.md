@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wiktoria, based in CET time zone
 - 👀 WEB3 enthusiast
-- 🌱 I build websites
-- 💞️ I’m seeking internship/job opportunities that will allow me to gain experience
+- 🌱 I learn Solidity
+- 💞️ Open to new opportunities
 - 📫 You can reach me on Telegram @lithil or Twitter @0xWiktoria
 
 <!---
